@@ -4,12 +4,12 @@ I work as a Product Owner. I am also specialist in marketing data analysis; I fo
 
 - **Academic background:** EDC Paris Business School, ISC Paris, University of Westminster, and Yonsei University (exchange)
 - **Projects I've worked on:**
-  - An AI bookstore concept
-  - An analysis of the Brexit impact study on the auto industry
-  - An insurance market study across Africa with the World Bank and Ernst Young for the FANAF
-  - A neural network for pneumonia detection from chest X-rays
-  - A political censorship framework with clustering and visualization
-  - A Tunisia stock market analysis
+  - [Brexit & the Global Automotive Industry](https://github.com/hs1122349/Brexit-and-the-UK-Car-Industry) (Python, pandas, NumPy)
+  - [Insurance market study across Africa with FANAF, CIMA, and the World Bank](https://github.com/hs1122349/Insurance-in-Africa) (Python, pandas)
+  - [Neural network for pneumonia detection from chest X-rays](https://github.com/hs1122349/Pneumonia-Xray-Classifier) (Python, PyTorch, CNNs)
+  - [Political ad visibility clustering in Belgium](https://github.com/hs1122349/Belgium-political-ads-visibility) (Python, pandas, Matplotlib)
+  - [Tunisia stock market analysis](https://github.com/hs1122349/Tunisia-Stock-Portfolio-Screener) (Python, pandas)
+  - [Meta Ads scraping and benchmarking for perfume brands](https://github.com/hs1122349/Meta-Ads-scrapping-and-benchmark-analysis) (Python, pandas, clustering/PCA)
 - **Looking to collaborate on:** dashboards, data pipelines, and marketing analytics tools
 - **Ask me about:** data strategy, campaign analytics, or any project listed above
 - **Portfolio:** [hedidatastrategy.fr](https://hedidatastrategy.fr)
