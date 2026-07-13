@@ -6,7 +6,8 @@ I work as a Product Owner. I am also specialist in marketing data analysis; I fo
 - **Projects I've worked on:**
   - [Brexit & the Global Automotive Industry](https://github.com/hs1122349/Brexit-and-the-UK-Car-Industry) (Python, pandas, NumPy)
   - [Insurance market study across Africa with FANAF, CIMA, and the World Bank](https://github.com/hs1122349/Insurance-in-Africa) (Python, pandas)
-  - [Neural network for pneumonia detection from chest X-rays](https://github.com/hs1122349/Pneumonia-Xray-Classifier) (Python, PyTorch, CNNs, Keras)
+  - [Neural network for pneumonia detection from chest X-rays](https://github.com/hs1122349/Pneumonia-Xray-Classifier) (Python, PyTorch, CNNs, Keras,OpenCV
+    )
   - [Political ad visibility clustering in Belgium](https://github.com/hs1122349/Belgium-political-ads-visibility) (Python, pandas, Matplotlib)
   - [Tunisia stock market analysis](https://github.com/hs1122349/Tunisia-Stock-Portfolio-Screener) (Python, pandas)
   - [Meta Ads scraping and benchmarking for perfume brands](https://github.com/hs1122349/Meta-Ads-scrapping-and-benchmark-analysis) (Python, pandas, clustering/PCA)
