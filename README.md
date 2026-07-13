@@ -5,7 +5,7 @@ I work as a Product Owner. I am also specialist in marketing data analysis; I fo
 
 - **Academic background:** EDC Paris Business School, ISC Paris, University of Westminster, and Yonsei University (exchange)
 - **Projects I've worked on:**
-  - [Brexit & the Global Automotive Industry](https://github.com/hs1122349/Brexit-and-the-UK-Car-Industry) (Python, pandas, NumPy)
+  - [Brexit & the Global Automotive Industry](https://github.com/hs1122349/Brexit-and-the-UK-Car-Industry) (Python, pandas, NumPy, Clustering/PCA)
   - [Insurance market study across Africa with FANAF, CIMA, and the World Bank](https://github.com/hs1122349/Insurance-in-Africa) (Python, pandas)
   - [Neural network for pneumonia detection from chest X-rays](https://github.com/hs1122349/Pneumonia-Xray-Classifier) (Python, PyTorch, CNNs, Keras, OpenCV)
   - [Political ad visibility clustering in Belgium](https://github.com/hs1122349/Belgium-political-ads-visibility) (Python, pandas, Matplotlib)
