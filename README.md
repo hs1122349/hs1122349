@@ -1,4 +1,5 @@
-## Hello YOU, I'm Hedi. If you came on my page don't hesitate to get through it !
+## Hello YOU, I'm Hedi. 
+## If you came on my page don't hesitate to get through it !
 
 I work as a Product Owner. I am also specialist in marketing data analysis; I focus on data strategy. I turn raw numbers into decisions people can use.
 
